@@ -1,0 +1,14 @@
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\bin\Debug\net8.0\Habit Tracker.exe
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\bin\Debug\net8.0\Habit Tracker.deps.json
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\bin\Debug\net8.0\Habit Tracker.runtimeconfig.json
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\bin\Debug\net8.0\Habit Tracker.dll
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\bin\Debug\net8.0\Habit Tracker.pdb
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\obj\Debug\net8.0\Habit Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\obj\Debug\net8.0\Habit Tracker.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\obj\Debug\net8.0\Habit Tracker.AssemblyInfo.cs
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\obj\Debug\net8.0\Habit Tracker.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\obj\Debug\net8.0\Habit Tracker.dll
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\obj\Debug\net8.0\refint\Habit Tracker.dll
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\obj\Debug\net8.0\Habit Tracker.pdb
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\obj\Debug\net8.0\Habit Tracker.genruntimeconfig.cache
+C:\Users\ASUS ROG\source\repos\Habit Tracker\Habit Tracker\obj\Debug\net8.0\ref\Habit Tracker.dll
